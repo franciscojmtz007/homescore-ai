@@ -158,4 +158,19 @@ def calculate_home_result(home, buyer):
         "violations": violations,
         "constraint_count": constraint_count,
         "constraint_status": constraint_status,
+
+    "demo_results": "HomeScore Demo Results",
+    "calculate_demo": "Calculate Demo HomeScores",
+    "demo_description": (
+        "Calculate personalized HomeScores for four example homes "
+        "using your current buyer preferences."
+    ),
+    "homescore_label": "HomeScore",
+    "monthly_cost_label": "Estimated Monthly Housing Cost",
+    "constraint_label": "Requirement Violations",
+    "rank_label": "Rank",
+    "demo_disclaimer": (
+        "These are example properties for testing. "
+        "They are not actual real estate listings."
+    ),
     }
